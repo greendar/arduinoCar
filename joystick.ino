@@ -1,3 +1,5 @@
+// this sucks don't use it
+
 #define joyX A0
 #define joyY A1
 
@@ -14,4 +16,3 @@ void loop() {
   Serial.println(yValue);
   delay(50);
 }
- 
